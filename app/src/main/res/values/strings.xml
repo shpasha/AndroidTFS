@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidTFS</string>
+    <string name="SIGNIN">ВОЙТИ</string>
+    <string name="PASSWORD">ПАРОЛЬ</string>
+    <string name="login">ЛОГИН</string>
+    <string name="profile">Профиль</string>
+    <string name="my_course">Мой курс</string>
+    <string name="settings">Настройки</string>
+    <string name="statusNew">Новый</string>
+    <string name="statusAccepted">Зачтено</string>
+    <string name="of">из</string>
+    <string name="statusOnCheck">Ожидание проверки</string>
+    <string name="confirm_test_quit">Вы уверены, что хотите сделать это?</string>
+    <string name="leave_test">Покинуть тест</string>
+    <string name="answer_written">Ответ записан</string>
+    <string name="test">Опрос</string>
+    <string name="test_soon_start">Скоро начнется</string>
+    <string name="test_going">Тест идёт</string>
+    <string name="test_accepted">Зачтено</string>
+    <string name="answer_wriiten">Ответ записан</string>
+    <string name="lectures_tests">Тесты по лекциям</string>
+</resources>
